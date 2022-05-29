@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
+  <style>
+    .Layout{
+      border-style: solid;
+      display: flex;
+      flex-direction: row;
+      padding: 10px;
+      margin: 10px;
+      width: auto;
+      height: auto;
+      
+    }
+    .Object{
+      border-style: solid;
+      width: 50%;
+      height: 50%;
+      margin: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="Layout">
+    <div class="Object">
+      <table class="table table-hover table-sm">
+        <thead class = "table-dark">
+            <th scope="col">STT</th>
+            <th scope="col">Họ Và Tên</th>
+            <th scope="col">Nồng Độ Oxy (%)</th>
+            <th scope="col">Thân Nhiệt (°C)</th>
+            <th scope="col">Nhịp Tim (lần/phút)</th>
+            <th scope="col">SĐT liên lạc</th>
+        </thead>
+        <tbody id="table1"></tbody>
+    </table>
+    </div>
+    <div class="Object">Contact</div>
+  </div>
+</body>
+</html>
