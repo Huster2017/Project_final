@@ -1,0 +1,38 @@
+{
+  "custom": {
+    "122313756": {
+      "CCCD": "122313756",
+      "Heartbeat": "80",
+      "Location": "[105.842386, 20.966227]",
+      "Name": "Bùi Trung Kiên",
+      "Oxy": "97",
+      "Phone": "0869397417",
+      "TempBody": "36.5",
+      "message": {
+        "mess": "yếu lắm",
+        "mess_user": "ok thank"
+      }
+    },
+    "122532898": {
+      "CCCD": "122532898",
+      "Heartbeat": "75",
+      "Location": "[105.837931, 20.966400]",
+      "Name": "Phan Văn Phượng",
+      "Oxy": "97",
+      "Phone": "0577232526",
+      "TempBody": "36.6"
+    },
+    "125266324": {
+      "CCCD": "125266324",
+      "Heartbeat": "81",
+      "Location": "[105.842137, 20.967642]",
+      "Name": "Lê Thị An",
+      "Oxy": "98",
+      "Phone": "0853226544",
+      "TempBody": "36.3",
+      "message": {
+        "mess": "Nhịp tim cao đấy"
+      }
+    }
+  }
+}
